@@ -1,0 +1,39 @@
+html{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(185, 185, 185);
+    font-family:'Times New Roman', Times, serif;
+}
+header{
+    background-color: rgb(155, 155, 155);
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+}
+.lehetoseg{
+    text-align: center;
+    margin-bottom: 10px;
+}
+button img{
+    border-radius: 200px;
+}
+ button{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 200px;
+ }
+ .eredmeny{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 32px;
+ }
+ .pontszamok{
+    display: table;
+    margin: 0 auto;
+    background-color: white;
+    border-radius:  5px;
+    text-align: center;
+    border:1px solid black;
+ }
+
